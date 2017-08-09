@@ -6,3 +6,12 @@ c:\users\tim\documents\visual studio 2017\Projects\AutoImageWaterMarker\AutoImag
 c:\users\tim\documents\visual studio 2017\Projects\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.csproj.GenerateResource.Cache
 c:\users\tim\documents\visual studio 2017\Projects\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.exe
 c:\users\tim\documents\visual studio 2017\Projects\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.pdb
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\bin\x64\Debug\AutoImageWaterMarker.exe.config
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\bin\x64\Debug\AutoImageWaterMarker.exe
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\bin\x64\Debug\AutoImageWaterMarker.pdb
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.Form1.resources
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.Properties.Resources.resources
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.exe
+C:\Users\Tim\Documents\GitHub\AutoImageWaterMarker\AutoImageWaterMarker\obj\x64\Debug\AutoImageWaterMarker.pdb
